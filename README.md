@@ -1,7 +1,7 @@
 # Task 1: Understand & Visualize — Transformer Architecture
 
-**Student:** Your Name  
-**Repository name:** `yourname-task1`  
+**Student:** Sowmya Y  
+**Repository name:** `sowmya-task1`  
 **Architecture chosen:** Transformer  
 **Hands-on task:** Pretrained sentiment analysis on five sample sentences
 
